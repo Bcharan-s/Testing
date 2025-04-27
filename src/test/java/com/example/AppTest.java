@@ -11,6 +11,8 @@ public class AppTest {
                 assertEquals("Hello, World!", App.greet());
 
                 assertEquals("Hello, World!", App.greet());
+                assertEquals("Hello, World!", App.greet());
+
 
     }
 }
