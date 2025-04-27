@@ -8,11 +8,11 @@ public class AppTest {
     @Test
     public void testGreet() {
         assertEquals("Hello, World!", App.greet());
-                assertEquals("Hello, World!", App.greet());
-
-                assertEquals("Hello, World!", App.greet());
-                assertEquals("Hello, World!", App.greet());
 
 
     }
 }
+public class AppTest {
+
+    @Test
+    public void testGreet() {
